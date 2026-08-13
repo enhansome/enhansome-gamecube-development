@@ -1,0 +1,636 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Swiss",
+          "description": "An all-in-one homebrew utility capable of launching homebrew from a variety of devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T18:05:23Z",
+            "owner": "emukidid",
+            "repo": "swiss-gc",
+            "stars": 1625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "objdiff",
+          "description": "A local diffing tool for decompilation projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:06:07Z",
+            "owner": "encounter",
+            "repo": "objdiff",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decomp-toolkit",
+          "description": "A GameCube and Wii decompilation toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-02T05:36:46Z",
+            "owner": "encounter",
+            "repo": "decomp-toolkit",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtk-template",
+          "description": "A project template for GameCube and Wii decompilation projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T05:44:48Z",
+            "owner": "encounter",
+            "repo": "dtk-template",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtk-template-build",
+          "description": "A build repository template for the aforementioned dtk-template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-08-15T22:56:25Z",
+            "owner": "encounter",
+            "repo": "dtk-template-build",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools and Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reverse Engineering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: Twilight Princess",
+          "description": "An in-progress decompilation of The Legend of Zelda: Twilight Princess",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-23T19:52:55Z",
+            "owner": "zeldaret",
+            "repo": "tp",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal Crossing",
+          "description": "An in-progress decompilation of Animal Crossing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-18T01:55:27Z",
+            "owner": "ACreTeam",
+            "repo": "ac-decomp",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Smash Bros. Melee",
+          "description": "An in-progress decompilation of Super Smash Bros. Melee",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T08:08:14Z",
+            "owner": "doldecomp",
+            "repo": "melee",
+            "stars": 991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Legend of Zelda: The Wind Waker",
+          "description": "An in-progress decompilation of The Legend of Zelda: The Wind Waker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:56:30Z",
+            "owner": "zeldaret",
+            "repo": "tww",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 4",
+          "description": "A complete decompilation of Mario Party 4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-04T03:18:46Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty4",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pikmin 2",
+          "description": "An in-progress decompilation of Pikmin 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-08T04:45:49Z",
+            "owner": "projectPiki",
+            "repo": "pikmin2",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid Prime",
+          "description": "An in-progress decompilation of Metroid Prime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:21:00Z",
+            "owner": "PrimeDecomp",
+            "repo": "prime",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Sunshine",
+          "description": "An in-progress decompilation of Super Mario Sunshine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:05:30Z",
+            "owner": "doldecomp",
+            "repo": "sms",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pikmin",
+          "description": "An in-progress decompilation of Pikmin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T07:16:39Z",
+            "owner": "projectPiki",
+            "repo": "pikmin",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart: Double Dash!!",
+          "description": "An in-progress decompilation of Mario Kart: Double Dash!!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T23:22:21Z",
+            "owner": "doldecomp",
+            "repo": "mkdd",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpongeBob SquarePants: Battle for Bikini Bottom",
+          "description": "An in-progress decompilation of SpongeBob SquarePants: Battle for Bikini Bottom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T17:26:16Z",
+            "owner": "bfbbdecomp",
+            "repo": "bfbb",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Need for Speed: Most Wanted",
+          "description": "An in-progress decompilation of Need for Speed: Most Wanted",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T21:54:03Z",
+            "owner": "dbalatoni13",
+            "repo": "nfsmw",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Mario: The Thousand-Year Door",
+          "description": "An in-progress decompilation of Paper Mario: The Thousand-Year Door",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-05T19:34:58Z",
+            "owner": "doldecomp",
+            "repo": "ttyd",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirby Air Ride",
+          "description": "An in-progress decompilation of Kirby Air Ride",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-02-26T16:38:42Z",
+            "owner": "doldecomp",
+            "repo": "kar",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Monkey Ball",
+          "description": "An in-progress decompilation of Super Monkey Ball",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2023-01-14T21:14:45Z",
+            "owner": "camthesaxman",
+            "repo": "smb-decomp",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metroid Prime 2: Echoes",
+          "description": "An in-progress decompilation of Metroid Prime 2: Echoes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-04T13:24:33Z",
+            "owner": "PrimeDecomp",
+            "repo": "echoes",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Adventure DX",
+          "description": "An in-progress decompilation of Sonic Adventure DX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T04:03:08Z",
+            "owner": "doldecomp",
+            "repo": "sadx",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dōbutsu no Mori e+",
+          "description": "An in-progress decompilation of Dōbutsu no Mori e+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T01:24:36Z",
+            "owner": "ACreTeam",
+            "repo": "afe-decomp",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chibi-Robo!",
+          "description": "An in-progress decompilation of Chibi-Robo!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:15:05Z",
+            "owner": "eavpsp",
+            "repo": "cbr_decomp",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luigi's Mansion",
+          "description": "An in-progress decompilation of Luigi's Mansion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-09T05:14:57Z",
+            "owner": "Sage-of-Mirrors",
+            "repo": "zmansion",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 5",
+          "description": "An in-progress decompilation of Mario Party 5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-30T00:36:04Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty5",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ty the Tasmanian Tiger",
+          "description": "An in-progress decompilation of Ty the Tasmanian Tiger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T17:23:58Z",
+            "owner": "1superchip",
+            "repo": "ty-decomp",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Riders",
+          "description": "An in-progress decompilation of Sonic Riders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-02-06T17:57:39Z",
+            "owner": "doldecomp",
+            "repo": "sonicriders",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Mario Strikers",
+          "description": "An in-progress decompilation of Super Mario Strikers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:05:12Z",
+            "owner": "yannicksuter",
+            "repo": "smstrikers-decomp",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 7",
+          "description": "An in-progress decompilation of Mario Party 7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-03T00:36:08Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty7",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ratatouille",
+          "description": "An in-progress decompilation of Ratatouille",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:35:33Z",
+            "owner": "ZounaModding",
+            "repo": "RatDecomp",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Need for Speed: Underground",
+          "description": "An in-progress decompilation of Need for Speed: Underground",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T20:16:53Z",
+            "owner": "dbalatoni13",
+            "repo": "nfsug",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Naruto: Gekitō Ninja Taisen! 4",
+          "description": "An in-progress decompilation of Naruto: Gekitō Ninja Taisen! 4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-08-10T18:52:05Z",
+            "owner": "doldecomp",
+            "repo": "gnt4",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvest Moon: A Wonderful Life",
+          "description": "An in-progress decompilation of Harvest Moon: A Wonderful Life",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-11-22T11:52:44Z",
+            "owner": "ChrisNonyminus",
+            "repo": "hmawl",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Party 6",
+          "description": "An in-progress decompilation of Mario Party 6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T01:39:19Z",
+            "owner": "mariopartyrd",
+            "repo": "marioparty6",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Incredibles",
+          "description": "An in-progress decompilation of The Incredibles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-01-18T17:01:38Z",
+            "owner": "seilc",
+            "repo": "incredibles",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The SpongeBob SquarePants Movie",
+          "description": "An in-progress decompilation of The SpongeBob SquarePants Movie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-15T22:51:35Z",
+            "owner": "bfbbdecomp",
+            "repo": "tssm",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Fox Adventures",
+          "description": "An in-progress decompilation of Star Fox Adventures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-13T23:45:34Z",
+            "owner": "RenaKunisaki",
+            "repo": "sfadebug",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Superstar Baseball",
+          "description": "An in-progress decompilation of Mario Superstar Baseball",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-12T19:53:33Z",
+            "owner": "roeming",
+            "repo": "mssb-dtk",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doshin the Giant",
+          "description": "An in-progress decompilation of Doshin the Giant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T05:48:56Z",
+            "owner": "break-core",
+            "repo": "doshin-gc",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skies of Arcadia Legends",
+          "description": "An in-progress decompilation of Skies of Arcadia Legends",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T13:11:28Z",
+            "owner": "Rainchus",
+            "repo": "SkiesOfArcadiaLegends",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Summoner: A Goddess Reborn",
+          "description": "An in-progress decompilation of Summoner: A Goddess Reborn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-09T01:44:45Z",
+            "owner": "Charlese2",
+            "repo": "sgr",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homeland",
+          "description": "An in-progress decompilation of Homeland",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-03-14T07:51:13Z",
+            "owner": "BttrDrgn",
+            "repo": "homeland",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Game Decompilation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:29:37.076Z",
+    "original_repository": "command-tab/awesome-gamecube-development",
+    "original_repository_sha": "693734196b8e8782917860d93bdd68554ec32238",
+    "enhanced_repository": "enhansome/enhansome-gamecube-development",
+    "enhanced_repository_description": null,
+    "title": "Awesome GameCube Development with stars"
+  }
+}
