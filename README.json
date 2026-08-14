@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T17:06:07Z",
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 513
+            "stars": 515
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-06-23T19:52:55Z",
             "owner": "zeldaret",
             "repo": "tp",
-            "stars": 1980
+            "stars": 1986
           }
         },
         {
@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T08:08:14Z",
+            "last_commit": "2026-08-14T10:30:25Z",
             "owner": "doldecomp",
             "repo": "melee",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -139,10 +139,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T16:56:30Z",
+            "last_commit": "2026-08-14T01:58:52Z",
             "owner": "zeldaret",
             "repo": "tww",
-            "stars": 907
+            "stars": 908
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-06-04T03:18:46Z",
             "owner": "mariopartyrd",
             "repo": "marioparty4",
-            "stars": 823
+            "stars": 825
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-08-13T04:21:00Z",
             "owner": "PrimeDecomp",
             "repo": "prime",
-            "stars": 291
+            "stars": 292
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-12T02:05:30Z",
             "owner": "doldecomp",
             "repo": "sms",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-10T07:16:39Z",
             "owner": "projectPiki",
             "repo": "pikmin",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -419,7 +419,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T05:05:12Z",
+            "last_commit": "2026-08-14T06:40:49Z",
             "owner": "yannicksuter",
             "repo": "smstrikers-decomp",
             "stars": 32
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:29:37.076Z",
+    "last_updated": "2026-08-14T12:26:39.963Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_sha": "693734196b8e8782917860d93bdd68554ec32238",
     "enhanced_repository": "enhansome/enhansome-gamecube-development",
