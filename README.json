@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T18:05:23Z",
+            "last_commit": "2026-08-14T22:51:21Z",
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1625
+            "stars": 1626
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-07-18T01:55:27Z",
             "owner": "ACreTeam",
             "repo": "ac-decomp",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -125,7 +125,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T10:30:25Z",
+            "last_commit": "2026-08-15T11:23:38Z",
             "owner": "doldecomp",
             "repo": "melee",
             "stars": 992
@@ -139,10 +139,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T01:58:52Z",
+            "last_commit": "2026-08-14T15:55:58Z",
             "owner": "zeldaret",
             "repo": "tww",
-            "stars": 908
+            "stars": 909
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-06-04T03:18:46Z",
             "owner": "mariopartyrd",
             "repo": "marioparty4",
-            "stars": 825
+            "stars": 826
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-10T07:16:39Z",
             "owner": "projectPiki",
             "repo": "pikmin",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -385,6 +385,20 @@
         },
         {
           "node_type": "item",
+          "title": "Sonic Riders",
+          "description": "An in-progress decompilation of Sonic Riders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-02-06T17:57:39Z",
+            "owner": "doldecomp",
+            "repo": "sonicriders",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Ty the Tasmanian Tiger",
           "description": "An in-progress decompilation of Ty the Tasmanian Tiger",
           "children": [],
@@ -399,27 +413,13 @@
         },
         {
           "node_type": "item",
-          "title": "Sonic Riders",
-          "description": "An in-progress decompilation of Sonic Riders",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2022-02-06T17:57:39Z",
-            "owner": "doldecomp",
-            "repo": "sonicriders",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Super Mario Strikers",
           "description": "An in-progress decompilation of Super Mario Strikers",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:40:49Z",
+            "last_commit": "2026-08-15T08:55:57Z",
             "owner": "yannicksuter",
             "repo": "smstrikers-decomp",
             "stars": 32
@@ -447,7 +447,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T23:35:33Z",
+            "last_commit": "2026-08-14T22:59:03Z",
             "owner": "ZounaModding",
             "repo": "RatDecomp",
             "stars": 30
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:26:39.963Z",
+    "last_updated": "2026-08-15T11:52:26.383Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_sha": "693734196b8e8782917860d93bdd68554ec32238",
     "enhanced_repository": "enhansome/enhansome-gamecube-development",
