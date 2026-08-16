@@ -28,7 +28,7 @@
             "last_commit": "2026-08-11T17:06:07Z",
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 515
+            "stars": 516
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-06-23T19:52:55Z",
             "owner": "zeldaret",
             "repo": "tp",
-            "stars": 1986
+            "stars": 1990
           }
         },
         {
@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T11:23:38Z",
+            "last_commit": "2026-08-16T10:12:10Z",
             "owner": "doldecomp",
             "repo": "melee",
-            "stars": 992
+            "stars": 995
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-08-14T15:55:58Z",
             "owner": "zeldaret",
             "repo": "tww",
-            "stars": 909
+            "stars": 911
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-06-04T03:18:46Z",
             "owner": "mariopartyrd",
             "repo": "marioparty4",
-            "stars": 826
+            "stars": 828
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-08T04:45:49Z",
             "owner": "projectPiki",
             "repo": "pikmin2",
-            "stars": 358
+            "stars": 360
           }
         },
         {
@@ -195,7 +195,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T02:05:30Z",
+            "last_commit": "2026-08-16T01:49:49Z",
             "owner": "doldecomp",
             "repo": "sms",
             "stars": 284
@@ -212,7 +212,7 @@
             "last_commit": "2026-08-10T07:16:39Z",
             "owner": "projectPiki",
             "repo": "pikmin",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -223,7 +223,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-09T23:22:21Z",
+            "last_commit": "2026-08-15T18:20:12Z",
             "owner": "doldecomp",
             "repo": "mkdd",
             "stars": 177
@@ -254,7 +254,7 @@
             "last_commit": "2026-08-10T21:54:03Z",
             "owner": "dbalatoni13",
             "repo": "nfsmw",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -399,6 +399,20 @@
         },
         {
           "node_type": "item",
+          "title": "Super Mario Strikers",
+          "description": "An in-progress decompilation of Super Mario Strikers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-16T08:41:54Z",
+            "owner": "yannicksuter",
+            "repo": "smstrikers-decomp",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Ty the Tasmanian Tiger",
           "description": "An in-progress decompilation of Ty the Tasmanian Tiger",
           "children": [],
@@ -409,20 +423,6 @@
             "owner": "1superchip",
             "repo": "ty-decomp",
             "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Super Mario Strikers",
-          "description": "An in-progress decompilation of Super Mario Strikers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-15T08:55:57Z",
-            "owner": "yannicksuter",
-            "repo": "smstrikers-decomp",
-            "stars": 32
           }
         },
         {
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:52:26.383Z",
+    "last_updated": "2026-08-16T11:53:16.850Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_sha": "693734196b8e8782917860d93bdd68554ec32238",
     "enhanced_repository": "enhansome/enhansome-gamecube-development",
