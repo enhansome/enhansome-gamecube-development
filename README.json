@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T22:30:45Z",
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1628
+            "stars": 1631
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T21:22:45Z",
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 520
+            "stars": 523
           }
         },
         {
@@ -100,7 +100,7 @@
                     "last_commit": "2026-06-23T19:52:55Z",
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 1998
+                    "stars": 1999
                   }
                 },
                 {
@@ -115,7 +115,7 @@
                     "last_commit": "2026-07-18T01:55:27Z",
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1342
+                    "stars": 1346
                   }
                 },
                 {
@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-23T07:40:03Z",
+                    "last_commit": "2026-08-24T03:45:54Z",
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1007
+                    "stars": 1008
                   }
                 },
                 {
@@ -142,10 +142,10 @@
                     "archived": false,
                     "id": 689343905,
                     "language": "C++",
-                    "last_commit": "2026-08-22T23:00:11Z",
+                    "last_commit": "2026-08-24T02:50:39Z",
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 918
+                    "stars": 920
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-06-04T03:18:46Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 830
+                    "stars": 829
                   }
                 },
                 {
@@ -190,7 +190,7 @@
                     "last_commit": "2026-08-13T04:21:00Z",
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 297
+                    "stars": 298
                   }
                 },
                 {
@@ -262,10 +262,10 @@
                     "archived": false,
                     "id": 983120879,
                     "language": "C++",
-                    "last_commit": "2026-08-21T12:49:42Z",
+                    "last_commit": "2026-08-23T23:46:48Z",
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 152
+                    "stars": 153
                   }
                 },
                 {
@@ -322,7 +322,7 @@
                     "archived": false,
                     "id": 989774797,
                     "language": "C++",
-                    "last_commit": "2026-08-23T07:12:43Z",
+                    "last_commit": "2026-08-24T11:33:38Z",
                     "owner": "yannicksuter",
                     "repo": "smstrikers-decomp",
                     "stars": 61
@@ -370,7 +370,7 @@
                     "last_commit": "2026-07-22T01:24:36Z",
                     "owner": "ACreTeam",
                     "repo": "afe-decomp",
-                    "stars": 37
+                    "stars": 38
                   }
                 },
                 {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:53:48.540Z",
+    "last_updated": "2026-08-24T11:58:33.532Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_id": 376669956,
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
