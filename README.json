@@ -145,7 +145,7 @@
                     "last_commit": "2026-08-24T02:50:39Z",
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 920
+                    "stars": 921
                   }
                 },
                 {
@@ -300,21 +300,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Metroid Prime 2: Echoes",
-                  "description": "An in-progress decompilation of Metroid Prime 2: Echoes",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 573577286,
-                    "language": "C++",
-                    "last_commit": "2026-07-04T13:24:33Z",
-                    "owner": "PrimeDecomp",
-                    "repo": "echoes",
-                    "stars": 61
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Super Mario Strikers",
                   "description": "An in-progress decompilation of Super Mario Strikers",
                   "children": [],
@@ -325,6 +310,21 @@
                     "last_commit": "2026-08-24T11:33:38Z",
                     "owner": "yannicksuter",
                     "repo": "smstrikers-decomp",
+                    "stars": 62
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Metroid Prime 2: Echoes",
+                  "description": "An in-progress decompilation of Metroid Prime 2: Echoes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573577286,
+                    "language": "C++",
+                    "last_commit": "2026-07-04T13:24:33Z",
+                    "owner": "PrimeDecomp",
+                    "repo": "echoes",
                     "stars": 61
                   }
                 },
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:58:33.532Z",
+    "last_updated": "2026-08-24T14:50:09.825Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_id": 376669956,
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
