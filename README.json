@@ -12,10 +12,10 @@
             "archived": false,
             "id": 37768198,
             "language": "C",
-            "last_commit": "2026-08-22T22:30:45Z",
+            "last_commit": "2026-08-24T20:34:51Z",
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1631
+            "stars": 1630
           }
         },
         {
@@ -115,7 +115,7 @@
                     "last_commit": "2026-07-18T01:55:27Z",
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1346
+                    "stars": 1345
                   }
                 },
                 {
@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-24T03:45:54Z",
+                    "last_commit": "2026-08-25T04:23:42Z",
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1008
+                    "stars": 1011
                   }
                 },
                 {
@@ -142,10 +142,10 @@
                     "archived": false,
                     "id": 689343905,
                     "language": "C++",
-                    "last_commit": "2026-08-24T02:50:39Z",
+                    "last_commit": "2026-08-25T00:30:43Z",
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 921
+                    "stars": 923
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-06-04T03:18:46Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 829
+                    "stars": 830
                   }
                 },
                 {
@@ -172,7 +172,7 @@
                     "archived": false,
                     "id": 410709751,
                     "language": "Assembly",
-                    "last_commit": "2026-08-08T04:45:49Z",
+                    "last_commit": "2026-08-25T04:15:32Z",
                     "owner": "projectPiki",
                     "repo": "pikmin2",
                     "stars": 360
@@ -195,6 +195,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Super Mario Sunshine",
+                  "description": "An in-progress decompilation of Super Mario Sunshine",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 367915061,
+                    "language": "C++",
+                    "last_commit": "2026-08-25T01:59:29Z",
+                    "owner": "doldecomp",
+                    "repo": "sms",
+                    "stars": 289
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Pikmin",
                   "description": "An in-progress decompilation of Pikmin",
                   "children": [],
@@ -206,21 +221,6 @@
                     "owner": "projectPiki",
                     "repo": "pikmin",
                     "stars": 288
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Super Mario Sunshine",
-                  "description": "An in-progress decompilation of Super Mario Sunshine",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 367915061,
-                    "language": "C++",
-                    "last_commit": "2026-08-23T02:19:50Z",
-                    "owner": "doldecomp",
-                    "repo": "sms",
-                    "stars": 286
                   }
                 },
                 {
@@ -247,7 +247,7 @@
                     "archived": false,
                     "id": 500232163,
                     "language": "C++",
-                    "last_commit": "2026-08-15T18:20:12Z",
+                    "last_commit": "2026-08-24T20:37:07Z",
                     "owner": "doldecomp",
                     "repo": "mkdd",
                     "stars": 175
@@ -265,7 +265,7 @@
                     "last_commit": "2026-08-23T23:46:48Z",
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 153
+                    "stars": 154
                   }
                 },
                 {
@@ -307,10 +307,10 @@
                     "archived": false,
                     "id": 989774797,
                     "language": "C++",
-                    "last_commit": "2026-08-24T11:33:38Z",
+                    "last_commit": "2026-08-24T20:02:21Z",
                     "owner": "yannicksuter",
                     "repo": "smstrikers-decomp",
-                    "stars": 62
+                    "stars": 66
                   }
                 },
                 {
@@ -390,21 +390,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Luigi's Mansion",
-                  "description": "An in-progress decompilation of Luigi's Mansion",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 578438464,
-                    "language": "C",
-                    "last_commit": "2023-11-09T05:14:57Z",
-                    "owner": "Sage-of-Mirrors",
-                    "repo": "zmansion",
-                    "stars": 34
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Mario Party 5",
                   "description": "An in-progress decompilation of Mario Party 5",
                   "children": [],
@@ -415,6 +400,21 @@
                     "last_commit": "2026-05-30T00:36:04Z",
                     "owner": "mariopartyrd",
                     "repo": "marioparty5",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Luigi's Mansion",
+                  "description": "An in-progress decompilation of Luigi's Mansion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 578438464,
+                    "language": "C",
+                    "last_commit": "2023-11-09T05:14:57Z",
+                    "owner": "Sage-of-Mirrors",
+                    "repo": "zmansion",
                     "stars": 34
                   }
                 },
@@ -457,7 +457,7 @@
                     "archived": false,
                     "id": 969784944,
                     "language": "C++",
-                    "last_commit": "2026-08-23T07:22:06Z",
+                    "last_commit": "2026-08-25T00:04:58Z",
                     "owner": "ZounaModding",
                     "repo": "RatDecomp",
                     "stars": 31
@@ -490,7 +490,7 @@
                     "last_commit": "2026-02-04T20:16:53Z",
                     "owner": "dbalatoni13",
                     "repo": "nfsug",
-                    "stars": 27
+                    "stars": 29
                   }
                 },
                 {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:09.825Z",
+    "last_updated": "2026-08-25T06:39:50.697Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_id": 376669956,
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
