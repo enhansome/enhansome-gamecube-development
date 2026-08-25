@@ -49,7 +49,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 289 | 🐛 11 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *Super Mario Sunshine*
 * [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 288 | 🐛 2 | 🌐 C | 📅 2026-08-10 - An in-progress decompilation of *Pikmin*
 * [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) ⭐ 176 | 🐛 13 | 🌐 C++ | 📅 2026-08-10 - An in-progress decompilation of *SpongeBob SquarePants: Battle for Bikini Bottom*
-* [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) ⭐ 175 | 🐛 11 | 🌐 C++ | 📅 2026-08-24 - An in-progress decompilation of *Mario Kart: Double Dash!!*
+* [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) ⭐ 175 | 🐛 10 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *Mario Kart: Double Dash!!*
 * [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) ⭐ 154 | 🐛 10 | 🌐 C++ | 📅 2026-08-23 - An in-progress decompilation of *Need for Speed: Most Wanted*
 * [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2026-07-05 - An in-progress decompilation of *Paper Mario: The Thousand-Year Door*
 * [Kirby Air Ride](https://github.com/doldecomp/kar) ⭐ 87 | 🐛 0 | 🌐 Assembly | 📅 2025-02-26 - An in-progress decompilation of *Kirby Air Ride*
@@ -64,8 +64,8 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Sonic Riders](https://github.com/doldecomp/sonicriders) ⭐ 33 | 🐛 0 | 🌐 Assembly | 📅 2022-02-06 - An in-progress decompilation of *Sonic Riders*
 * [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) ⭐ 33 | 🐛 0 | 🌐 C++ | 📅 2026-08-01 - An in-progress decompilation of *Ty the Tasmanian Tiger*
 * [Ratatouille](https://github.com/zounadecomp/ratdecomp) ⭐ 31 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *Ratatouille*
+* [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2026-02-04 - An in-progress decompilation of *Need for Speed: Underground*
 * [Mario Party 7](https://github.com/mariopartyrd/marioparty7) ⭐ 29 | 🐛 9 | 🌐 C | 📅 2026-06-03 - An in-progress decompilation of *Mario Party 7*
-* [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2026-02-04 - An in-progress decompilation of *Need for Speed: Underground*
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) ⭐ 24 | 🐛 0 | 🌐 Assembly | 📅 2022-08-10 - An in-progress decompilation of *Naruto: Gekitō Ninja Taisen! 4*
 * [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) ⭐ 23 | 🐛 0 | 🌐 Assembly | 📅 2022-11-22 - An in-progress decompilation of *Harvest Moon: A Wonderful Life*
 * [The Incredibles](https://github.com/seilweiss/incredibles) ⭐ 23 | 🐛 0 | 🌐 Assembly | 📅 2022-01-18 - An in-progress decompilation of *The Incredibles*

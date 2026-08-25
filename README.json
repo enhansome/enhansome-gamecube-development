@@ -247,7 +247,7 @@
                     "archived": false,
                     "id": 500232163,
                     "language": "C++",
-                    "last_commit": "2026-08-24T20:37:07Z",
+                    "last_commit": "2026-08-25T11:40:40Z",
                     "owner": "doldecomp",
                     "repo": "mkdd",
                     "stars": 175
@@ -465,21 +465,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Mario Party 7",
-                  "description": "An in-progress decompilation of Mario Party 7",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 812151677,
-                    "language": "C",
-                    "last_commit": "2026-06-03T00:36:08Z",
-                    "owner": "mariopartyrd",
-                    "repo": "marioparty7",
-                    "stars": 29
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Need for Speed: Underground",
                   "description": "An in-progress decompilation of Need for Speed: Underground",
                   "children": [],
@@ -490,6 +475,21 @@
                     "last_commit": "2026-02-04T20:16:53Z",
                     "owner": "dbalatoni13",
                     "repo": "nfsug",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mario Party 7",
+                  "description": "An in-progress decompilation of Mario Party 7",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 812151677,
+                    "language": "C",
+                    "last_commit": "2026-06-03T00:36:08Z",
+                    "owner": "mariopartyrd",
+                    "repo": "marioparty7",
                     "stars": 29
                   }
                 },
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:50.697Z",
+    "last_updated": "2026-08-25T11:59:20.743Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_id": 376669956,
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
