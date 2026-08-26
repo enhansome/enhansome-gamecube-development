@@ -12,10 +12,10 @@
             "archived": false,
             "id": 37768198,
             "language": "C",
-            "last_commit": "2026-08-24T20:34:51Z",
+            "last_commit": "2026-08-25T21:15:01Z",
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-02T05:36:46Z",
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 278
+            "stars": 279
           }
         },
         {
@@ -100,7 +100,7 @@
                     "last_commit": "2026-06-23T19:52:55Z",
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 1999
+                    "stars": 2001
                   }
                 },
                 {
@@ -115,7 +115,7 @@
                     "last_commit": "2026-07-18T01:55:27Z",
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1345
+                    "stars": 1346
                   }
                 },
                 {
@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-25T04:23:42Z",
+                    "last_commit": "2026-08-26T04:23:23Z",
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1011
+                    "stars": 1013
                   }
                 },
                 {
@@ -142,7 +142,7 @@
                     "archived": false,
                     "id": 689343905,
                     "language": "C++",
-                    "last_commit": "2026-08-25T00:30:43Z",
+                    "last_commit": "2026-08-25T19:01:24Z",
                     "owner": "zeldaret",
                     "repo": "tww",
                     "stars": 923
@@ -172,7 +172,7 @@
                     "archived": false,
                     "id": 410709751,
                     "language": "Assembly",
-                    "last_commit": "2026-08-25T04:15:32Z",
+                    "last_commit": "2026-08-26T04:06:19Z",
                     "owner": "projectPiki",
                     "repo": "pikmin2",
                     "stars": 360
@@ -187,7 +187,7 @@
                     "archived": false,
                     "id": 473362373,
                     "language": "C++",
-                    "last_commit": "2026-08-13T04:21:00Z",
+                    "last_commit": "2026-08-25T15:36:19Z",
                     "owner": "PrimeDecomp",
                     "repo": "prime",
                     "stars": 298
@@ -202,7 +202,7 @@
                     "archived": false,
                     "id": 367915061,
                     "language": "C++",
-                    "last_commit": "2026-08-25T01:59:29Z",
+                    "last_commit": "2026-08-26T07:54:46Z",
                     "owner": "doldecomp",
                     "repo": "sms",
                     "stars": 289
@@ -232,7 +232,7 @@
                     "archived": false,
                     "id": 291377478,
                     "language": "C++",
-                    "last_commit": "2026-08-10T17:26:16Z",
+                    "last_commit": "2026-08-25T18:36:29Z",
                     "owner": "bfbbdecomp",
                     "repo": "bfbb",
                     "stars": 176
@@ -307,10 +307,10 @@
                     "archived": false,
                     "id": 989774797,
                     "language": "C++",
-                    "last_commit": "2026-08-24T20:02:21Z",
+                    "last_commit": "2026-08-25T15:42:00Z",
                     "owner": "yannicksuter",
                     "repo": "smstrikers-decomp",
-                    "stars": 66
+                    "stars": 68
                   }
                 },
                 {
@@ -457,7 +457,7 @@
                     "archived": false,
                     "id": 969784944,
                     "language": "C++",
-                    "last_commit": "2026-08-25T00:04:58Z",
+                    "last_commit": "2026-08-26T00:39:14Z",
                     "owner": "ZounaModding",
                     "repo": "RatDecomp",
                     "stars": 31
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:59:20.743Z",
+    "last_updated": "2026-08-26T12:00:24.444Z",
     "original_repository": "command-tab/awesome-gamecube-development",
     "original_repository_id": 376669956,
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
