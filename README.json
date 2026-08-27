@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-26T04:23:23Z",
+                    "last_commit": "2026-08-27T08:38:16Z",
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1013
+                    "stars": 1014
                   }
                 },
                 {
@@ -142,10 +142,10 @@
                     "archived": false,
                     "id": 689343905,
                     "language": "C++",
-                    "last_commit": "2026-08-25T19:01:24Z",
+                    "last_commit": "2026-08-27T01:29:33Z",
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 923
+                    "stars": 928
                   }
                 },
                 {
@@ -175,7 +175,7 @@
                     "last_commit": "2026-08-26T04:06:19Z",
                     "owner": "projectPiki",
                     "repo": "pikmin2",
-                    "stars": 360
+                    "stars": 361
                   }
                 },
                 {
@@ -187,7 +187,7 @@
                     "archived": false,
                     "id": 473362373,
                     "language": "C++",
-                    "last_commit": "2026-08-25T15:36:19Z",
+                    "last_commit": "2026-08-26T18:08:57Z",
                     "owner": "PrimeDecomp",
                     "repo": "prime",
                     "stars": 298
@@ -202,10 +202,10 @@
                     "archived": false,
                     "id": 367915061,
                     "language": "C++",
-                    "last_commit": "2026-08-26T07:54:46Z",
+                    "last_commit": "2026-08-27T08:25:10Z",
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 289
+                    "stars": 290
                   }
                 },
                 {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-08-10T07:16:39Z",
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 288
+                    "stars": 289
                   }
                 },
                 {
@@ -232,7 +232,7 @@
                     "archived": false,
                     "id": 291377478,
                     "language": "C++",
-                    "last_commit": "2026-08-25T18:36:29Z",
+                    "last_commit": "2026-08-27T00:44:24Z",
                     "owner": "bfbbdecomp",
                     "repo": "bfbb",
                     "stars": 176
@@ -673,9 +673,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:00:24.444Z",
-    "original_repository": "command-tab/awesome-gamecube-development",
-    "original_repository_id": 376669956,
+    "last_updated": "2026-08-27T11:41:29.426Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 376669956,
+      "language": null,
+      "last_commit": "2026-08-22T00:07:53Z",
+      "owner": "command-tab",
+      "repo": "awesome-gamecube-development",
+      "stars": 57
+    },
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
     "enhanced_repository": "enhansome/enhansome-gamecube-development",
     "enhanced_repository_description": null,

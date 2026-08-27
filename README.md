@@ -27,8 +27,8 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 ## Tools and Libraries
 
-* [Swiss](https://github.com/emukidid/swiss-gc) ⭐ 1,631 | 🐛 127 | 🌐 C | 📅 2026-08-25 - An all-in-one homebrew utility capable of launching homebrew from a variety of devices
-* [objdiff](https://github.com/encounter/objdiff) ⭐ 523 | 🐛 88 | 🌐 Rust | 📅 2026-08-17 - A local diffing tool for decompilation projects
+* [Swiss](https://github.com/emukidid/swiss-gc) ⭐ 1,631 | 🐛 128 | 🌐 C | 📅 2026-08-25 - An all-in-one homebrew utility capable of launching homebrew from a variety of devices
+* [objdiff](https://github.com/encounter/objdiff) ⭐ 523 | 🐛 87 | 🌐 Rust | 📅 2026-08-17 - A local diffing tool for decompilation projects
 * [decomp-toolkit](https://github.com/encounter/decomp-toolkit) ⭐ 279 | 🐛 30 | 🌐 Rust | 📅 2026-03-02 - A GameCube and Wii decompilation toolkit
 * [dtk-template](https://github.com/encounter/dtk-template) ⭐ 73 | 🐛 14 | 🌐 Python | 📅 2026-04-26 - A project template for GameCube and Wii decompilation projects
 * [dtk-template-build](https://github.com/encounter/dtk-template-build) ⭐ 0 | 🐛 0 | 🌐 Dockerfile | 📅 2025-08-15 - A build repository template for the aforementioned dtk-template
@@ -41,14 +41,14 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 * [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,001 | 🐛 33 | 🌐 C++ | 📅 2026-06-23 - An in-progress decompilation of *The Legend of Zelda: Twilight Princess*
 * [Animal Crossing](https://github.com/acreteam/ac-decomp) ⭐ 1,346 | 🐛 6 | 🌐 C | 📅 2026-07-18 - An in-progress decompilation of *Animal Crossing*
-* [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 1,013 | 🐛 26 | 🌐 C | 📅 2026-08-26 - An in-progress decompilation of *Super Smash Bros. Melee*
-* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) ⭐ 923 | 🐛 205 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *The Legend of Zelda: The Wind Waker*
+* [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 1,014 | 🐛 27 | 🌐 C | 📅 2026-08-27 - An in-progress decompilation of *Super Smash Bros. Melee*
+* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) ⭐ 928 | 🐛 203 | 🌐 C++ | 📅 2026-08-27 - An in-progress decompilation of *The Legend of Zelda: The Wind Waker*
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4) ⭐ 830 | 🐛 3 | 🌐 C | 📅 2026-06-04 - A **complete** decompilation of *Mario Party 4*
-* [Pikmin 2](https://github.com/projectPiki/pikmin2) ⭐ 360 | 🐛 6 | 🌐 Assembly | 📅 2026-08-26 - An in-progress decompilation of *Pikmin 2*
-* [Metroid Prime](https://github.com/PrimeDecomp/prime) ⭐ 298 | 🐛 5 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *Metroid Prime*
-* [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 289 | 🐛 10 | 🌐 C++ | 📅 2026-08-26 - An in-progress decompilation of *Super Mario Sunshine*
-* [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 288 | 🐛 2 | 🌐 C | 📅 2026-08-10 - An in-progress decompilation of *Pikmin*
-* [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) ⭐ 176 | 🐛 12 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *SpongeBob SquarePants: Battle for Bikini Bottom*
+* [Pikmin 2](https://github.com/projectPiki/pikmin2) ⭐ 361 | 🐛 6 | 🌐 Assembly | 📅 2026-08-26 - An in-progress decompilation of *Pikmin 2*
+* [Metroid Prime](https://github.com/PrimeDecomp/prime) ⭐ 298 | 🐛 5 | 🌐 C++ | 📅 2026-08-26 - An in-progress decompilation of *Metroid Prime*
+* [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 290 | 🐛 10 | 🌐 C++ | 📅 2026-08-27 - An in-progress decompilation of *Super Mario Sunshine*
+* [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 289 | 🐛 2 | 🌐 C | 📅 2026-08-10 - An in-progress decompilation of *Pikmin*
+* [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) ⭐ 176 | 🐛 11 | 🌐 C++ | 📅 2026-08-27 - An in-progress decompilation of *SpongeBob SquarePants: Battle for Bikini Bottom*
 * [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) ⭐ 175 | 🐛 10 | 🌐 C++ | 📅 2026-08-25 - An in-progress decompilation of *Mario Kart: Double Dash!!*
 * [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) ⭐ 154 | 🐛 10 | 🌐 C++ | 📅 2026-08-23 - An in-progress decompilation of *Need for Speed: Most Wanted*
 * [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) ⭐ 126 | 🐛 0 | 🌐 C | 📅 2026-07-05 - An in-progress decompilation of *Paper Mario: The Thousand-Year Door*
@@ -80,4 +80,4 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
