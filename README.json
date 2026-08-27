@@ -12,7 +12,7 @@
             "archived": false,
             "id": 37768198,
             "language": "C",
-            "last_commit": "2026-08-25T21:15:01Z",
+            "last_commit": "2026-08-27T18:52:20Z",
             "owner": "emukidid",
             "repo": "swiss-gc",
             "stars": 1631
@@ -100,7 +100,7 @@
                     "last_commit": "2026-06-23T19:52:55Z",
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2001
+                    "stars": 2000
                   }
                 },
                 {
@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-27T08:38:16Z",
+                    "last_commit": "2026-08-27T21:06:30Z",
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1014
+                    "stars": 1015
                   }
                 },
                 {
@@ -142,7 +142,7 @@
                     "archived": false,
                     "id": 689343905,
                     "language": "C++",
-                    "last_commit": "2026-08-27T01:29:33Z",
+                    "last_commit": "2026-08-27T18:48:31Z",
                     "owner": "zeldaret",
                     "repo": "tww",
                     "stars": 928
@@ -190,7 +190,7 @@
                     "last_commit": "2026-08-26T18:08:57Z",
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 298
+                    "stars": 299
                   }
                 },
                 {
@@ -325,7 +325,7 @@
                     "last_commit": "2026-07-04T13:24:33Z",
                     "owner": "PrimeDecomp",
                     "repo": "echoes",
-                    "stars": 61
+                    "stars": 62
                   }
                 },
                 {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:29.426Z",
+    "last_updated": "2026-08-27T21:08:25.247Z",
     "original_repository_info": {
       "archived": false,
       "id": 376669956,
