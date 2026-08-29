@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swiss - The swiss army knife of GameCube homebrew",
+            "homepage": null,
             "id": 37768198,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T21:45:22Z",
+            "open_issues": 129,
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1631
+            "stars": 1631,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
         },
@@ -26,12 +31,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local diffing tool for decompilation projects",
+            "homepage": null,
             "id": 534397346,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T21:22:45Z",
+            "open_issues": 87,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "asm",
+              "assembly",
+              "codewarrior",
+              "decompilation",
+              "disassembler",
+              "egui",
+              "gamecube",
+              "metrowerks",
+              "mips",
+              "nintendo-64",
+              "powerpc",
+              "reverse-engineering",
+              "rust",
+              "wii"
+            ]
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
         },
@@ -42,12 +67,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GameCube & Wii decompilation toolkit",
+            "homepage": null,
             "id": 571334434,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-02T05:36:46Z",
+            "open_issues": 30,
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "codewarrior",
+              "decompilation",
+              "disassembler",
+              "dol",
+              "gamecube",
+              "metrowerks",
+              "powerpc",
+              "rel",
+              "reverse-engineering",
+              "rust",
+              "wii"
+            ]
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
         },
@@ -58,12 +100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project template for decomp-toolkit",
+            "homepage": null,
             "id": 691278017,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-04-26T05:44:48Z",
+            "open_issues": 14,
             "owner": "encounter",
             "repo": "dtk-template",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "decompilation",
+              "disassembler",
+              "gamecube",
+              "template",
+              "wii"
+            ]
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
         },
@@ -74,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build repository template for dtk-template",
+            "homepage": null,
             "id": 767818328,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2025-08-15T22:56:25Z",
+            "open_issues": 0,
             "owner": "encounter",
             "repo": "dtk-template-build",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
         }
@@ -100,12 +158,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of The Legend of Zelda: Twilight Princess",
+                    "homepage": null,
                     "id": 291260123,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-06-23T19:52:55Z",
+                    "open_issues": 33,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2002
+                    "stars": 2005,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -116,12 +179,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Animal Crossing for the Nintendo GameCube.",
+                    "homepage": null,
                     "id": 579413540,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-18T01:55:27Z",
+                    "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1346
+                    "stars": 1348,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -132,12 +200,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+                    "homepage": null,
                     "id": 276230427,
                     "language": "C",
-                    "last_commit": "2026-08-28T19:34:30Z",
+                    "license": null,
+                    "last_commit": "2026-08-29T02:02:31Z",
+                    "open_issues": 27,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 1016
+                    "stars": 1016,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -148,12 +221,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of The Legend of Zelda: The Wind Waker",
+                    "homepage": "https://zeldaret.github.io/tww",
                     "id": 689343905,
                     "language": "C++",
-                    "last_commit": "2026-08-28T21:28:05Z",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-29T00:43:02Z",
+                    "open_issues": 205,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 931
+                    "stars": 931,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -164,12 +242,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 721303131,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-06-04T03:18:46Z",
+                    "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 831
+                    "stars": 831,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -180,12 +263,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Pikmin 2 (USA) brought to you by fans of the series.",
+                    "homepage": null,
                     "id": 410709751,
                     "language": "Assembly",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-26T04:06:19Z",
+                    "open_issues": 6,
                     "owner": "projectPiki",
                     "repo": "pikmin2",
-                    "stars": 361
+                    "stars": 361,
+                    "topics": [
+                      "cpp",
+                      "decompilation",
+                      "pikmin",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -196,12 +289,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A matching decompilation of Metroid Prime",
+                    "homepage": null,
                     "id": 473362373,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-26T18:08:57Z",
+                    "open_issues": 5,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 300
+                    "stars": 300,
+                    "topics": [
+                      "cplusplus",
+                      "decompilation",
+                      "gamecube",
+                      "metroid",
+                      "metroid-prime",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -212,12 +317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Super Mario Sunshine brought to you by a bunch of clever folks.",
+                    "homepage": null,
                     "id": 367915061,
                     "language": "C++",
-                    "last_commit": "2026-08-27T08:25:10Z",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-29T03:00:51Z",
+                    "open_issues": 10,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 291
+                    "stars": 292,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -228,12 +338,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Pikmin brought to you by fans of the series.",
+                    "homepage": null,
                     "id": 411080415,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-10T07:16:39Z",
+                    "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 289
+                    "stars": 289,
+                    "topics": [
+                      "cpp",
+                      "decompilation",
+                      "pikmin",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -244,12 +364,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation project for SpongeBob SquarePants: Battle for Bikini Bottom",
+                    "homepage": "https://bfbbdecomp.github.io/bfbb/",
                     "id": 291377478,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-27T21:33:12Z",
+                    "open_issues": 12,
                     "owner": "bfbbdecomp",
                     "repo": "bfbb",
-                    "stars": 176
+                    "stars": 176,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -260,12 +385,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Mario Kart Double Dash!!",
+                    "homepage": null,
                     "id": 500232163,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-28T09:24:31Z",
+                    "open_issues": 9,
                     "owner": "doldecomp",
                     "repo": "mkdd",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -276,12 +406,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WIP 1:1 Decompilation of multiple versions of NFS:MW",
+                    "homepage": null,
                     "id": 983120879,
                     "language": "C++",
-                    "last_commit": "2026-08-28T01:55:53Z",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-29T00:14:27Z",
+                    "open_issues": 9,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 156
+                    "stars": 158,
+                    "topics": [
+                      "decompilation",
+                      "decompiled-sources",
+                      "gamecube",
+                      "needforspeed",
+                      "needforspeedmostwanted",
+                      "playstation2",
+                      "reverse-engineering",
+                      "xbox360"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -292,12 +436,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A work-in-progress matching decompilation of Paper Mario: The Thousand Year Door",
+                    "homepage": null,
                     "id": 331497152,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-05T19:34:58Z",
+                    "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "ttyd",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -308,12 +457,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Kirby Air Ride brought to you by a bunch of clever folks.",
+                    "homepage": null,
                     "id": 304455540,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2025-02-26T16:38:42Z",
+                    "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "kar",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -324,12 +478,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Super Mario Strikers",
+                    "homepage": null,
                     "id": 989774797,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T15:42:00Z",
+                    "open_issues": 1,
                     "owner": "yannicksuter",
                     "repo": "smstrikers-decomp",
-                    "stars": 70
+                    "stars": 71,
+                    "topics": [
+                      "decompilation",
+                      "gamecube",
+                      "nintendo-gamecube",
+                      "super-mario-strikers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -340,12 +504,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A matching decompilation of Metroid Prime 2: Echoes.",
+                    "homepage": null,
                     "id": 573577286,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-07-04T13:24:33Z",
+                    "open_issues": 1,
                     "owner": "PrimeDecomp",
                     "repo": "echoes",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "decompilation",
+                      "gamecube",
+                      "metroid",
+                      "metroid-prime",
+                      "metroid-prime-2",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -356,12 +532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 379792382,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2023-01-14T21:14:45Z",
+                    "open_issues": 2,
                     "owner": "camthesaxman",
                     "repo": "smb-decomp",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -372,12 +553,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sonic Adventure DX",
+                    "homepage": null,
                     "id": 502535266,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-01T04:03:08Z",
+                    "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "sadx",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -388,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Animal Forest e+ (JP)",
+                    "homepage": null,
                     "id": 962591529,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-22T01:24:36Z",
+                    "open_issues": 0,
                     "owner": "ACreTeam",
                     "repo": "afe-decomp",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -404,12 +595,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chibi-Robo: PIA Decompilation",
+                    "homepage": null,
                     "id": 588355056,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-12T05:15:05Z",
+                    "open_issues": 0,
                     "owner": "eavpsp",
                     "repo": "cbr_decomp",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -420,12 +616,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 812441303,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-05-30T00:36:04Z",
+                    "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty5",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -436,12 +637,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 578438464,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2023-11-09T05:14:57Z",
+                    "open_issues": 0,
                     "owner": "Sage-of-Mirrors",
                     "repo": "zmansion",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -452,12 +658,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A disassembly of Sonic Riders.",
+                    "homepage": null,
                     "id": 453500431,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-02-06T17:57:39Z",
+                    "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "sonicriders",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -468,12 +679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Ty the Tasmanian Tiger",
+                    "homepage": null,
                     "id": 554437819,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-01T17:23:58Z",
+                    "open_issues": 0,
                     "owner": "1superchip",
                     "repo": "ty-decomp",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -484,12 +700,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation project of Disney-Pixar Ratatouille (USA) for the Nintendo GameCube",
+                    "homepage": null,
                     "id": 969784944,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-28T05:49:37Z",
+                    "open_issues": 0,
                     "owner": "ZounaModding",
                     "repo": "RatDecomp",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "asobo-studio",
+                      "decompilation",
+                      "gamecube",
+                      "reverse-engineering",
+                      "zouna"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -500,12 +727,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 982439279,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-02-04T20:16:53Z",
+                    "open_issues": 0,
                     "owner": "dbalatoni13",
                     "repo": "nfsug",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -516,12 +748,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 812151677,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-06-03T00:36:08Z",
+                    "open_issues": 9,
                     "owner": "mariopartyrd",
                     "repo": "marioparty7",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -532,12 +769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Naruto: Gekitō Ninja Taisen! 4 brought to you by a bunch of clever folks.",
+                    "homepage": null,
                     "id": 287405996,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-08-10T18:52:05Z",
+                    "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "gnt4",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -548,12 +790,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A disassembly/decompilation of Harvest Moon: A Wonderful Life for Nintendo GameCube.",
+                    "homepage": null,
                     "id": 436439237,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-11-22T11:52:44Z",
+                    "open_issues": 0,
                     "owner": "ChrisNonyminus",
                     "repo": "hmawl",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -564,12 +811,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation project for The Incredibles (GameCube)",
+                    "homepage": null,
                     "id": 378224229,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-01-18T17:01:38Z",
+                    "open_issues": 0,
                     "owner": "seilc",
                     "repo": "incredibles",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -580,12 +832,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 812444532,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-23T01:39:19Z",
+                    "open_issues": 1,
                     "owner": "mariopartyrd",
                     "repo": "marioparty6",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -596,12 +853,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 964337983,
                     "language": "C++",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-06-15T22:51:35Z",
+                    "open_issues": 0,
                     "owner": "bfbbdecomp",
                     "repo": "tssm",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -612,12 +874,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Decompilation of Star Fox Adventures debug version",
+                    "homepage": null,
                     "id": 866787954,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-04-13T23:45:34Z",
+                    "open_issues": 0,
                     "owner": "RenaKunisaki",
                     "repo": "sfadebug",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -628,12 +895,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A decompilation of Mario Superstar Baseball using dtk",
+                    "homepage": null,
                     "id": 844272726,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-12T19:53:33Z",
+                    "open_issues": 0,
                     "owner": "roeming",
                     "repo": "mssb-dtk",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -644,12 +916,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A WIP matching decompilation of Doshin the Giant (GameCube)",
+                    "homepage": null,
                     "id": 969541684,
                     "language": "Python",
+                    "license": "CC0-1.0",
                     "last_commit": "2025-12-02T05:48:56Z",
+                    "open_issues": 0,
                     "owner": "break-core",
                     "repo": "doshin-gc",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -660,12 +937,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A matching decompilation of Skies Of Arcadia Legends",
+                    "homepage": null,
                     "id": 979403818,
                     "language": "Python",
+                    "license": "CC0-1.0",
                     "last_commit": "2025-05-07T13:11:28Z",
+                    "open_issues": 0,
                     "owner": "Rainchus",
                     "repo": "SkiesOfArcadiaLegends",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -676,12 +958,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 910310440,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2025-12-09T01:44:45Z",
+                    "open_issues": 0,
                     "owner": "Charlese2",
                     "repo": "sgr",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -692,12 +979,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HomeLand disassembly",
+                    "homepage": null,
                     "id": 461341802,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-03-14T07:51:13Z",
+                    "open_issues": 0,
                     "owner": "BttrDrgn",
                     "repo": "homeland",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 }
@@ -716,15 +1008,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:31:02.117Z",
+    "last_updated": "2026-08-29T05:03:42.737Z",
     "original_repository_info": {
       "archived": false,
+      "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
+      "homepage": "https://gamecube.dev",
       "id": 376669956,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-22T00:07:53Z",
+      "open_issues": 0,
       "owner": "command-tab",
       "repo": "awesome-gamecube-development",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "documentation",
+        "gamecube",
+        "gamecube-homebrew",
+        "nintendo",
+        "nintendo-gamecube"
+      ]
     },
     "original_repository_sha": "ca0e9f72b11e316ab08fa9b92c026b03b1427be8",
     "enhanced_repository": "enhansome/enhansome-gamecube-development",
