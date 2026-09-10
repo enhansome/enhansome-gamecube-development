@@ -40,7 +40,7 @@
             "open_issues": 93,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 541,
+            "stars": 543,
             "topics": [
               "asm",
               "assembly",
@@ -72,7 +72,7 @@
             "id": 571334434,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T06:55:43Z",
+            "last_commit": "2026-09-10T04:06:08Z",
             "open_issues": 30,
             "owner": "encounter",
             "repo": "decomp-toolkit",
@@ -153,6 +153,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Super Smash Bros. Melee",
+                  "description": "An in-progress decompilation of Super Smash Bros. Melee",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+                    "homepage": null,
+                    "id": 276230427,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2026-09-10T09:14:07Z",
+                    "open_issues": 14,
+                    "owner": "doldecomp",
+                    "repo": "melee",
+                    "stars": 2057,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "The Legend of Zelda: Twilight Princess",
                   "description": "An in-progress decompilation of The Legend of Zelda: Twilight Princess",
                   "children": [],
@@ -167,28 +188,7 @@
                     "open_issues": 34,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2013,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Super Smash Bros. Melee",
-                  "description": "An in-progress decompilation of Super Smash Bros. Melee",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
-                    "homepage": null,
-                    "id": 276230427,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2026-09-09T09:39:01Z",
-                    "open_issues": 17,
-                    "owner": "doldecomp",
-                    "repo": "melee",
-                    "stars": 1941,
+                    "stars": 2014,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -226,11 +226,11 @@
                     "id": 689343905,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-07T17:28:57Z",
-                    "open_issues": 208,
+                    "last_commit": "2026-09-09T18:56:38Z",
+                    "open_issues": 207,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 950,
+                    "stars": 951,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -268,7 +268,7 @@
                     "id": 410709751,
                     "language": "Assembly",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-08T00:36:59Z",
+                    "last_commit": "2026-09-10T08:46:31Z",
                     "open_issues": 6,
                     "owner": "projectPiki",
                     "repo": "pikmin2",
@@ -294,11 +294,11 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-09T15:15:51Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-09-10T12:00:42Z",
+                    "open_issues": 0,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 305,
+                    "stars": 306,
                     "topics": [
                       "cplusplus",
                       "decompilation",
@@ -322,11 +322,11 @@
                     "id": 367915061,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-09T11:54:08Z",
+                    "last_commit": "2026-09-09T23:34:32Z",
                     "open_issues": 14,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 303,
+                    "stars": 304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -347,7 +347,7 @@
                     "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 295,
+                    "stars": 296,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -373,7 +373,7 @@
                     "open_issues": 9,
                     "owner": "doldecomp",
                     "repo": "mkdd",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -411,11 +411,11 @@
                     "id": 983120879,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-09T10:35:55Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-09-09T23:31:10Z",
+                    "open_issues": 14,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 168,
+                    "stars": 169,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -685,7 +685,7 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-08T03:49:14Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "ZounaModding",
                     "repo": "RatDecomp",
                     "stars": 33,
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:15:54.076Z",
+    "last_updated": "2026-09-10T15:08:06.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
