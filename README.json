@@ -37,10 +37,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T22:14:27Z",
-            "open_issues": 93,
+            "open_issues": 96,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "asm",
               "assembly",
@@ -109,7 +109,7 @@
             "open_issues": 17,
             "owner": "encounter",
             "repo": "dtk-template",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "decompilation",
               "disassembler",
@@ -163,11 +163,11 @@
                     "id": 276230427,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-14T15:29:13Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-09-15T10:51:30Z",
+                    "open_issues": 18,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2185,
+                    "stars": 2198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 34,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2019,
+                    "stars": 2023,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -209,7 +209,7 @@
                     "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1366,
+                    "stars": 1367,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -227,10 +227,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-13T17:23:15Z",
-                    "open_issues": 209,
+                    "open_issues": 210,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 962,
+                    "stars": 964,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -294,11 +294,11 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-14T15:57:48Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-15T15:39:57Z",
+                    "open_issues": 21,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": [
                       "cplusplus",
                       "decompilation",
@@ -322,11 +322,11 @@
                     "id": 367915061,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-13T23:17:30Z",
+                    "last_commit": "2026-09-15T02:15:06Z",
                     "open_issues": 14,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 307,
+                    "stars": 308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -347,7 +347,7 @@
                     "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 298,
+                    "stars": 299,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -415,7 +415,7 @@
                     "open_issues": 15,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -484,10 +484,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-05T09:08:50Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "yannicksuter",
                     "repo": "smstrikers-decomp",
-                    "stars": 82,
+                    "stars": 83,
                     "topics": [
                       "decompilation",
                       "gamecube",
@@ -579,7 +579,7 @@
                     "id": 962591529,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-14T11:44:01Z",
+                    "last_commit": "2026-09-14T20:32:21Z",
                     "open_issues": 0,
                     "owner": "ACreTeam",
                     "repo": "afe-decomp",
@@ -653,27 +653,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Ty the Tasmanian Tiger",
-                  "description": "An in-progress decompilation of Ty the Tasmanian Tiger",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of Ty the Tasmanian Tiger",
-                    "homepage": null,
-                    "id": 554437819,
-                    "language": "C++",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-09-10T20:39:58Z",
-                    "open_issues": 0,
-                    "owner": "1superchip",
-                    "repo": "ty-decomp",
-                    "stars": 34,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Ratatouille",
                   "description": "An in-progress decompilation of Ratatouille",
                   "children": [],
@@ -715,6 +694,27 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "sonicriders",
+                    "stars": 33,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ty the Tasmanian Tiger",
+                  "description": "An in-progress decompilation of Ty the Tasmanian Tiger",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Ty the Tasmanian Tiger",
+                    "homepage": null,
+                    "id": 554437819,
+                    "language": "C++",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-10T20:39:58Z",
+                    "open_issues": 0,
+                    "owner": "1superchip",
+                    "repo": "ty-decomp",
                     "stars": 33,
                     "topics": []
                   },
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T17:02:10.239Z",
+    "last_updated": "2026-09-15T15:40:17.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
