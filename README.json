@@ -19,7 +19,7 @@
             "open_issues": 130,
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1644,
+            "stars": 1648,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
@@ -40,7 +40,7 @@
             "open_issues": 96,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "asm",
               "assembly",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 292,
+            "stars": 291,
             "topics": [
               "codewarrior",
               "decompilation",
@@ -163,11 +163,11 @@
                     "id": 276230427,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-19T14:24:11Z",
+                    "last_commit": "2026-09-20T00:21:27Z",
                     "open_issues": 21,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2239,
+                    "stars": 2243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 34,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2031,
+                    "stars": 2033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -226,11 +226,11 @@
                     "id": 689343905,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-17T14:48:19Z",
-                    "open_issues": 204,
+                    "last_commit": "2026-09-20T02:17:23Z",
+                    "open_issues": 194,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 969,
+                    "stars": 971,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -251,7 +251,7 @@
                     "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 846,
+                    "stars": 845,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -268,7 +268,7 @@
                     "id": 410709751,
                     "language": "Assembly",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-16T14:10:51Z",
+                    "last_commit": "2026-09-20T06:36:57Z",
                     "open_issues": 6,
                     "owner": "projectPiki",
                     "repo": "pikmin2",
@@ -294,7 +294,7 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-19T14:05:38Z",
+                    "last_commit": "2026-09-20T08:16:06Z",
                     "open_issues": 7,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
@@ -322,8 +322,8 @@
                     "id": 367915061,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-19T10:34:07Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-09-20T13:25:07Z",
+                    "open_issues": 12,
                     "owner": "doldecomp",
                     "repo": "sms",
                     "stars": 309,
@@ -380,6 +380,36 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Need for Speed: Most Wanted",
+                  "description": "An in-progress decompilation of Need for Speed: Most Wanted",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WIP 1:1 Decompilation of multiple versions of NFS:MW",
+                    "homepage": null,
+                    "id": 983120879,
+                    "language": "C++",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-17T22:30:26Z",
+                    "open_issues": 14,
+                    "owner": "dbalatoni13",
+                    "repo": "nfsmw",
+                    "stars": 181,
+                    "topics": [
+                      "decompilation",
+                      "decompiled-sources",
+                      "gamecube",
+                      "needforspeed",
+                      "needforspeedmostwanted",
+                      "playstation2",
+                      "reverse-engineering",
+                      "xbox360"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SpongeBob SquarePants: Battle for Bikini Bottom",
                   "description": "An in-progress decompilation of SpongeBob SquarePants: Battle for Bikini Bottom",
                   "children": [],
@@ -396,36 +426,6 @@
                     "repo": "bfbb",
                     "stars": 181,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Need for Speed: Most Wanted",
-                  "description": "An in-progress decompilation of Need for Speed: Most Wanted",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "WIP 1:1 Decompilation of multiple versions of NFS:MW",
-                    "homepage": null,
-                    "id": 983120879,
-                    "language": "C++",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-09-17T22:30:26Z",
-                    "open_issues": 13,
-                    "owner": "dbalatoni13",
-                    "repo": "nfsmw",
-                    "stars": 179,
-                    "topics": [
-                      "decompilation",
-                      "decompiled-sources",
-                      "gamecube",
-                      "needforspeed",
-                      "needforspeedmostwanted",
-                      "playstation2",
-                      "reverse-engineering",
-                      "xbox360"
-                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -583,7 +583,7 @@
                     "open_issues": 0,
                     "owner": "ACreTeam",
                     "repo": "afe-decomp",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -711,7 +711,7 @@
                     "id": 554437819,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-10T20:39:58Z",
+                    "last_commit": "2026-09-19T19:48:46Z",
                     "open_issues": 0,
                     "owner": "1superchip",
                     "repo": "ty-decomp",
@@ -848,27 +848,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Star Fox Adventures",
-                  "description": "An in-progress decompilation of Star Fox Adventures",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of Star Fox Adventures debug version",
-                    "homepage": null,
-                    "id": 866787954,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-04-13T23:45:34Z",
-                    "open_issues": 0,
-                    "owner": "RenaKunisaki",
-                    "repo": "sfadebug",
-                    "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "The SpongeBob SquarePants Movie",
                   "description": "An in-progress decompilation of The SpongeBob SquarePants Movie",
                   "children": [],
@@ -883,6 +862,27 @@
                     "open_issues": 0,
                     "owner": "bfbbdecomp",
                     "repo": "tssm",
+                    "stars": 22,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Star Fox Adventures",
+                  "description": "An in-progress decompilation of Star Fox Adventures",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Star Fox Adventures debug version",
+                    "homepage": null,
+                    "id": 866787954,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-04-13T23:45:34Z",
+                    "open_issues": 0,
+                    "owner": "RenaKunisaki",
+                    "repo": "sfadebug",
                     "stars": 21,
                     "topics": []
                   },
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:45:09.397Z",
+    "last_updated": "2026-09-20T14:50:00.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
