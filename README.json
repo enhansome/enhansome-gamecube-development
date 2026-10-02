@@ -40,7 +40,7 @@
             "open_issues": 93,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 562,
+            "stars": 563,
             "topics": [
               "asm",
               "assembly",
@@ -163,11 +163,11 @@
                     "id": 276230427,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-01T17:11:26Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-02T16:33:35Z",
+                    "open_issues": 25,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2319,
+                    "stars": 2324,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 35,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2059,
+                    "stars": 2061,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -209,7 +209,7 @@
                     "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1379,
+                    "stars": 1382,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -226,11 +226,11 @@
                     "id": 689343905,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-30T16:38:08Z",
-                    "open_issues": 179,
+                    "last_commit": "2026-10-02T14:28:00Z",
+                    "open_issues": 181,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1012,
+                    "stars": 1025,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -251,7 +251,7 @@
                     "open_issues": 3,
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 858,
+                    "stars": 859,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -269,10 +269,10 @@
                     "language": "Assembly",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-01T11:36:15Z",
-                    "open_issues": 6,
+                    "open_issues": 8,
                     "owner": "projectPiki",
                     "repo": "pikmin2",
-                    "stars": 370,
+                    "stars": 371,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -293,12 +293,12 @@
                     "homepage": null,
                     "id": 473362373,
                     "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-10-01T14:49:20Z",
-                    "open_issues": 6,
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-10-02T14:39:22Z",
+                    "open_issues": 7,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 324,
+                    "stars": 326,
                     "topics": [
                       "cplusplus",
                       "decompilation",
@@ -323,10 +323,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-01T13:35:49Z",
-                    "open_issues": 18,
+                    "open_issues": 44,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 318,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -347,7 +347,7 @@
                     "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -369,11 +369,11 @@
                     "id": 983120879,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-09-29T17:02:22Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-10-02T13:23:35Z",
+                    "open_issues": 13,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 199,
+                    "stars": 200,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -421,10 +421,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-31T07:20:44Z",
-                    "open_issues": 13,
+                    "open_issues": 12,
                     "owner": "bfbbdecomp",
                     "repo": "bfbb",
-                    "stars": 186,
+                    "stars": 187,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -508,12 +508,12 @@
                     "homepage": null,
                     "id": 573577286,
                     "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-10-01T17:26:58Z",
-                    "open_issues": 0,
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-10-02T16:40:06Z",
+                    "open_issues": 1,
                     "owner": "PrimeDecomp",
                     "repo": "echoes",
-                    "stars": 69,
+                    "stars": 72,
                     "topics": [
                       "decompilation",
                       "gamecube",
@@ -632,6 +632,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Ratatouille",
+                  "description": "An in-progress decompilation of Ratatouille",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation project of Disney-Pixar Ratatouille (USA) for the Nintendo GameCube",
+                    "homepage": null,
+                    "id": 969784944,
+                    "language": "C++",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-10T16:49:17Z",
+                    "open_issues": 0,
+                    "owner": "ZounaModding",
+                    "repo": "RatDecomp",
+                    "stars": 36,
+                    "topics": [
+                      "asobo-studio",
+                      "decompilation",
+                      "gamecube",
+                      "reverse-engineering",
+                      "zouna"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Luigi's Mansion",
                   "description": "An in-progress decompilation of Luigi's Mansion",
                   "children": [],
@@ -648,33 +675,6 @@
                     "repo": "zmansion",
                     "stars": 34,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Ratatouille",
-                  "description": "An in-progress decompilation of Ratatouille",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation project of Disney-Pixar Ratatouille (USA) for the Nintendo GameCube",
-                    "homepage": null,
-                    "id": 969784944,
-                    "language": "C++",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-09-10T16:49:17Z",
-                    "open_issues": 0,
-                    "owner": "ZounaModding",
-                    "repo": "RatDecomp",
-                    "stars": 34,
-                    "topics": [
-                      "asobo-studio",
-                      "decompilation",
-                      "gamecube",
-                      "reverse-engineering",
-                      "zouna"
-                    ]
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
                 },
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:28:49.260Z",
+    "last_updated": "2026-10-02T16:48:42.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
