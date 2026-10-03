@@ -40,7 +40,7 @@
             "open_issues": 93,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "asm",
               "assembly",
@@ -167,7 +167,7 @@
                     "open_issues": 23,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2325,
+                    "stars": 2328,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 35,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2062,
+                    "stars": 2063,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -209,7 +209,7 @@
                     "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1382,
+                    "stars": 1383,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -230,7 +230,7 @@
                     "open_issues": 175,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1032,
+                    "stars": 1037,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -294,11 +294,11 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-03T03:52:03Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-10-03T15:08:55Z",
+                    "open_issues": 14,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 326,
+                    "stars": 327,
                     "topics": [
                       "cplusplus",
                       "decompilation",
@@ -323,10 +323,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-02T20:32:10Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 319,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -400,7 +400,7 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-17T20:24:21Z",
-                    "open_issues": 10,
+                    "open_issues": 12,
                     "owner": "doldecomp",
                     "repo": "mkdd",
                     "stars": 193,
@@ -445,7 +445,7 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "ttyd",
-                    "stars": 136,
+                    "stars": 137,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -509,8 +509,8 @@
                     "id": 573577286,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-03T04:19:41Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-03T15:12:11Z",
+                    "open_issues": 0,
                     "owner": "PrimeDecomp",
                     "repo": "echoes",
                     "stars": 72,
@@ -548,6 +548,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Dōbutsu no Mori e+",
+                  "description": "An in-progress decompilation of Dōbutsu no Mori e+",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation of Animal Forest e+ (JP)",
+                    "homepage": null,
+                    "id": 962591529,
+                    "language": "C",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-09-16T17:27:26Z",
+                    "open_issues": 0,
+                    "owner": "ACreTeam",
+                    "repo": "afe-decomp",
+                    "stars": 49,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Sonic Adventure DX",
                   "description": "An in-progress decompilation of Sonic Adventure DX",
                   "children": [],
@@ -563,27 +584,6 @@
                     "owner": "doldecomp",
                     "repo": "sadx",
                     "stars": 49,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Dōbutsu no Mori e+",
-                  "description": "An in-progress decompilation of Dōbutsu no Mori e+",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation of Animal Forest e+ (JP)",
-                    "homepage": null,
-                    "id": 962591529,
-                    "language": "C",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-09-16T17:27:26Z",
-                    "open_issues": 0,
-                    "owner": "ACreTeam",
-                    "repo": "afe-decomp",
-                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:45.724Z",
+    "last_updated": "2026-10-03T15:13:52.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
