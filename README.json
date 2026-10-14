@@ -19,7 +19,7 @@
             "open_issues": 132,
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1663,
+            "stars": 1665,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
@@ -40,7 +40,7 @@
             "open_issues": 98,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 579,
+            "stars": 582,
             "topics": [
               "asm",
               "assembly",
@@ -76,7 +76,7 @@
             "open_issues": 36,
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "codewarrior",
               "decompilation",
@@ -163,11 +163,11 @@
                     "id": 276230427,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-10-13T17:23:53Z",
+                    "last_commit": "2026-10-13T19:25:27Z",
                     "open_issues": 26,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2401,
+                    "stars": 2404,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -185,10 +185,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-23T19:52:55Z",
-                    "open_issues": 38,
+                    "open_issues": 39,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2086,
+                    "stars": 2088,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -209,7 +209,7 @@
                     "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1407,
+                    "stars": 1409,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -226,11 +226,11 @@
                     "id": 689343905,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-13T17:40:20Z",
+                    "last_commit": "2026-10-13T21:33:45Z",
                     "open_issues": 170,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1089,
+                    "stars": 1091,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -251,7 +251,7 @@
                     "open_issues": 3,
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 864,
+                    "stars": 865,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -294,8 +294,8 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-13T17:31:33Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-14T15:09:13Z",
+                    "open_issues": 3,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
                     "stars": 362,
@@ -322,11 +322,11 @@
                     "id": 367915061,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-13T17:48:38Z",
+                    "last_commit": "2026-10-14T00:48:23Z",
                     "open_issues": 14,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 345,
+                    "stars": 348,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -347,7 +347,7 @@
                     "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 315,
+                    "stars": 317,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -373,7 +373,7 @@
                     "open_issues": 13,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 219,
+                    "stars": 224,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -400,7 +400,7 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-05T11:47:00Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "doldecomp",
                     "repo": "mkdd",
                     "stars": 198,
@@ -852,7 +852,7 @@
                     "language": "C",
                     "license": "CC0-1.0",
                     "last_commit": "2026-07-23T01:39:19Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "mariopartyrd",
                     "repo": "marioparty6",
                     "stars": 21,
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:29:04.516Z",
+    "last_updated": "2026-10-14T15:57:02.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
