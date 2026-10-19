@@ -16,7 +16,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-16T02:16:15Z",
-            "open_issues": 133,
+            "open_issues": 134,
             "owner": "emukidid",
             "repo": "swiss-gc",
             "stars": 1668,
@@ -36,11 +36,11 @@
             "id": 534397346,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T16:15:39Z",
-            "open_issues": 100,
+            "last_commit": "2026-10-19T17:33:30Z",
+            "open_issues": 101,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 599,
+            "stars": 604,
             "topics": [
               "asm",
               "assembly",
@@ -164,10 +164,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-16T20:09:18Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2422,
+                    "stars": 2434,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 40,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2093,
+                    "stars": 2095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -209,7 +209,7 @@
                     "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1419,
+                    "stars": 1421,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -226,11 +226,11 @@
                     "id": 689343905,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-14T18:54:59Z",
-                    "open_issues": 172,
+                    "last_commit": "2026-10-18T17:29:36Z",
+                    "open_issues": 170,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1103,
+                    "stars": 1114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -268,11 +268,11 @@
                     "id": 410709751,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-14T23:34:04Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-19T04:28:29Z",
+                    "open_issues": 4,
                     "owner": "projectPiki",
                     "repo": "pikmin2",
-                    "stars": 383,
+                    "stars": 384,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -294,11 +294,11 @@
                     "id": 473362373,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-18T03:52:17Z",
+                    "last_commit": "2026-10-19T10:16:19Z",
                     "open_issues": 2,
                     "owner": "PrimeDecomp",
                     "repo": "prime",
-                    "stars": 374,
+                    "stars": 380,
                     "topics": [
                       "cplusplus",
                       "decompilation",
@@ -322,11 +322,11 @@
                     "id": 367915061,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-18T13:58:25Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-19T16:36:32Z",
+                    "open_issues": 8,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 356,
+                    "stars": 362,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -347,7 +347,7 @@
                     "open_issues": 2,
                     "owner": "projectPiki",
                     "repo": "pikmin",
-                    "stars": 324,
+                    "stars": 325,
                     "topics": [
                       "cpp",
                       "decompilation",
@@ -403,7 +403,7 @@
                     "open_issues": 14,
                     "owner": "doldecomp",
                     "repo": "mkdd",
-                    "stars": 200,
+                    "stars": 202,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -445,7 +445,7 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "ttyd",
-                    "stars": 144,
+                    "stars": 145,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -555,7 +555,7 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "sadx",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -594,7 +594,7 @@
                     "language": "C",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-18T13:22:53Z",
-                    "open_issues": 2,
+                    "open_issues": 0,
                     "owner": "mariopartyrd",
                     "repo": "marioparty5",
                     "stars": 39,
@@ -618,7 +618,7 @@
                     "open_issues": 0,
                     "owner": "dbalatoni13",
                     "repo": "nfsug",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -730,6 +730,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "The SpongeBob SquarePants Movie",
+                  "description": "An in-progress decompilation of The SpongeBob SquarePants Movie",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 964337983,
+                    "language": "C++",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-06-15T22:51:35Z",
+                    "open_issues": 0,
+                    "owner": "bfbbdecomp",
+                    "repo": "tssm",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Harvest Moon: A Wonderful Life",
                   "description": "An in-progress decompilation of Harvest Moon: A Wonderful Life",
                   "children": [],
@@ -744,6 +765,27 @@
                     "open_issues": 0,
                     "owner": "ChrisNonyminus",
                     "repo": "hmawl",
+                    "stars": 24,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Naruto: Gekitō Ninja Taisen! 4",
+                  "description": "An in-progress decompilation of Naruto: Gekitō Ninja Taisen! 4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A decompilation of Naruto: Gekitō Ninja Taisen! 4 brought to you by a bunch of clever folks.",
+                    "homepage": null,
+                    "id": 287405996,
+                    "language": "Assembly",
+                    "license": null,
+                    "last_commit": "2022-08-10T18:52:05Z",
+                    "open_issues": 0,
+                    "owner": "doldecomp",
+                    "repo": "gnt4",
                     "stars": 24,
                     "topics": []
                   },
@@ -772,48 +814,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "The SpongeBob SquarePants Movie",
-                  "description": "An in-progress decompilation of The SpongeBob SquarePants Movie",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 964337983,
-                    "language": "C++",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-06-15T22:51:35Z",
-                    "open_issues": 0,
-                    "owner": "bfbbdecomp",
-                    "repo": "tssm",
-                    "stars": 24,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Naruto: Gekitō Ninja Taisen! 4",
-                  "description": "An in-progress decompilation of Naruto: Gekitō Ninja Taisen! 4",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A decompilation of Naruto: Gekitō Ninja Taisen! 4 brought to you by a bunch of clever folks.",
-                    "homepage": null,
-                    "id": 287405996,
-                    "language": "Assembly",
-                    "license": null,
-                    "last_commit": "2022-08-10T18:52:05Z",
-                    "open_issues": 0,
-                    "owner": "doldecomp",
-                    "repo": "gnt4",
-                    "stars": 23,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Mario Party 6",
                   "description": "An in-progress decompilation of Mario Party 6",
                   "children": [],
@@ -828,7 +828,7 @@
                     "open_issues": 1,
                     "owner": "mariopartyrd",
                     "repo": "marioparty6",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -953,7 +953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:47:19.385Z",
+    "last_updated": "2026-10-19T17:44:37.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
