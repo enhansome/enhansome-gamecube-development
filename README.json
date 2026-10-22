@@ -15,7 +15,7 @@
             "id": 37768198,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T02:10:28Z",
+            "last_commit": "2026-10-21T21:47:17Z",
             "open_issues": 134,
             "owner": "emukidid",
             "repo": "swiss-gc",
@@ -40,7 +40,7 @@
             "open_issues": 93,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 604,
+            "stars": 605,
             "topics": [
               "asm",
               "assembly",
@@ -76,7 +76,7 @@
             "open_issues": 38,
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 313,
+            "stars": 316,
             "topics": [
               "codewarrior",
               "decompilation",
@@ -109,7 +109,7 @@
             "open_issues": 17,
             "owner": "encounter",
             "repo": "dtk-template",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "decompilation",
               "disassembler",
@@ -164,10 +164,10 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-10-16T20:09:18Z",
-                    "open_issues": 27,
+                    "open_issues": 28,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2437,
+                    "stars": 2438,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 41,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2099,
+                    "stars": 2103,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -209,7 +209,7 @@
                     "open_issues": 6,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1424,
+                    "stars": 1425,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -230,7 +230,7 @@
                     "open_issues": 170,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1117,
+                    "stars": 1118,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -294,11 +294,11 @@
                     "id": 367915061,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-10-21T12:46:40Z",
+                    "last_commit": "2026-10-22T00:23:44Z",
                     "open_issues": 7,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 362,
+                    "stars": 363,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -345,7 +345,7 @@
                     "open_issues": 13,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 233,
+                    "stars": 235,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -392,8 +392,8 @@
                     "id": 291377478,
                     "language": "C++",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-08-31T07:20:44Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-10-21T16:21:45Z",
+                    "open_issues": 11,
                     "owner": "bfbbdecomp",
                     "repo": "bfbb",
                     "stars": 192,
@@ -417,7 +417,7 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "ttyd",
-                    "stars": 146,
+                    "stars": 147,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -506,7 +506,7 @@
                     "open_issues": 0,
                     "owner": "ACreTeam",
                     "repo": "afe-decomp",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -528,27 +528,6 @@
                     "owner": "doldecomp",
                     "repo": "sadx",
                     "stars": 49,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Chibi-Robo!",
-                  "description": "An in-progress decompilation of Chibi-Robo!",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Chibi-Robo: PIA Decompilation",
-                    "homepage": null,
-                    "id": 588355056,
-                    "language": "C++",
-                    "license": null,
-                    "last_commit": "2026-08-12T05:15:05Z",
-                    "open_issues": 0,
-                    "owner": "eavpsp",
-                    "repo": "cbr_decomp",
-                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -909,6 +888,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Chibi-Robo!",
+                  "description": "An in-progress decompilation of Chibi-Robo!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Chibi-Robo: PIA Decompilation",
+                    "homepage": null,
+                    "id": 588355056,
+                    "language": "C++",
+                    "license": null,
+                    "last_commit": "2026-08-12T05:15:05Z",
+                    "open_issues": 0,
+                    "owner": "eavpsp",
+                    "repo": "cbr_decomp",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
                 }
               ],
               "description": null,
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T16:04:57.624Z",
+    "last_updated": "2026-10-22T16:00:38.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
