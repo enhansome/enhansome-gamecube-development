@@ -27,10 +27,10 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 ## Tools and Libraries
 
-* [Swiss](https://github.com/emukidid/swiss-gc) ⭐ 1,671 | 🐛 133 | 🌐 C | 📅 2026-10-30 - An all-in-one homebrew utility capable of launching homebrew from a variety of devices
+* [Swiss](https://github.com/emukidid/swiss-gc) ⭐ 1,673 | 🐛 134 | 🌐 C | 📅 2026-10-31 - An all-in-one homebrew utility capable of launching homebrew from a variety of devices
 * [objdiff](https://github.com/encounter/objdiff) ⭐ 616 | 🐛 95 | 🌐 Rust | 📅 2026-10-19 - A local diffing tool for decompilation projects
-* [decomp-toolkit](https://github.com/encounter/decomp-toolkit) ⭐ 322 | 🐛 38 | 🌐 Rust | 📅 2026-10-28 - A GameCube and Wii decompilation toolkit
-* [dtk-template](https://github.com/encounter/dtk-template) ⭐ 90 | 🐛 16 | 🌐 Python | 📅 2026-10-22 - A project template for GameCube and Wii decompilation projects
+* [decomp-toolkit](https://github.com/encounter/decomp-toolkit) ⭐ 324 | 🐛 40 | 🌐 Rust | 📅 2026-10-28 - A GameCube and Wii decompilation toolkit
+* [dtk-template](https://github.com/encounter/dtk-template) ⭐ 91 | 🐛 16 | 🌐 Python | 📅 2026-10-22 - A project template for GameCube and Wii decompilation projects
 * [dtk-template-build](https://github.com/encounter/dtk-template-build) ⭐ 1 | 🐛 0 | 🌐 Dockerfile | 📅 2025-08-15 - A build repository template for the aforementioned dtk-template
 
 ## Reverse Engineering
@@ -39,13 +39,13 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 #### Game Decompilation
 
-* [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 2,449 | 🐛 24 | 🌐 C | 📅 2026-10-28 - An in-progress decompilation of *Super Smash Bros. Melee*
-* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,117 | 🐛 41 | 🌐 C++ | 📅 2026-06-23 - An in-progress decompilation of *The Legend of Zelda: Twilight Princess*
+* [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 2,451 | 🐛 26 | 🌐 C | 📅 2026-10-28 - An in-progress decompilation of *Super Smash Bros. Melee*
+* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,118 | 🐛 41 | 🌐 C++ | 📅 2026-06-23 - An in-progress decompilation of *The Legend of Zelda: Twilight Princess*
 * [Animal Crossing](https://github.com/acreteam/ac-decomp) ⭐ 1,430 | 🐛 6 | 🌐 C | 📅 2026-07-18 - An in-progress decompilation of *Animal Crossing*
-* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) ⭐ 1,138 | 🐛 169 | 🌐 C++ | 📅 2026-10-30 - An in-progress decompilation of *The Legend of Zelda: The Wind Waker*
+* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) ⭐ 1,142 | 🐛 169 | 🌐 C++ | 📅 2026-10-30 - An in-progress decompilation of *The Legend of Zelda: The Wind Waker*
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4) ⭐ 886 | 🐛 4 | 🌐 C | 📅 2026-10-15 - A **complete** decompilation of *Mario Party 4*
-* [Pikmin 2](https://github.com/projectPiki/pikmin2) ⭐ 391 | 🐛 4 | 🌐 C++ | 📅 2026-10-20 - An in-progress decompilation of *Pikmin 2*
-* [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 378 | 🐛 5 | 🌐 C++ | 📅 2026-10-31 - An in-progress decompilation of *Super Mario Sunshine*
+* [Pikmin 2](https://github.com/projectPiki/pikmin2) ⭐ 392 | 🐛 4 | 🌐 C++ | 📅 2026-10-20 - An in-progress decompilation of *Pikmin 2*
+* [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 379 | 🐛 4 | 🌐 C++ | 📅 2026-11-01 - An in-progress decompilation of *Super Mario Sunshine*
 * [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 329 | 🐛 2 | 🌐 C | 📅 2026-10-06 - An in-progress decompilation of *Pikmin*
 * [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) ⭐ 243 | 🐛 13 | 🌐 C++ | 📅 2026-10-10 - An in-progress decompilation of *Need for Speed: Most Wanted*
 * [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) ⭐ 213 | 🐛 15 | 🌐 C++ | 📅 2026-10-25 - An in-progress decompilation of *Mario Kart: Double Dash!!*
@@ -60,24 +60,24 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) ⭐ 39 | 🐛 0 | 🌐 C | 📅 2026-02-04 - An in-progress decompilation of *Need for Speed: Underground*
 * [Sonic Riders](https://github.com/doldecomp/sonicriders) ⭐ 39 | 🐛 0 | 🌐 Assembly | 📅 2022-02-06 - An in-progress decompilation of *Sonic Riders*
 * [Luigi's Mansion](https://github.com/sage-of-mirrors/zmansion) ⭐ 38 | 🐛 0 | 🌐 C | 📅 2023-11-09 - An in-progress decompilation of *Luigi's Mansion*
-* [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) ⭐ 37 | 🐛 4 | 🌐 C++ | 📅 2026-10-14 - An in-progress decompilation of *Ty the Tasmanian Tiger*
+* [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) ⭐ 37 | 🐛 4 | 🌐 C++ | 📅 2026-10-31 - An in-progress decompilation of *Ty the Tasmanian Tiger*
 * [Mario Party 7](https://github.com/mariopartyrd/marioparty7) ⭐ 32 | 🐛 2 | 🌐 C | 📅 2026-06-03 - An in-progress decompilation of *Mario Party 7*
-* [Mario Party 6](https://github.com/mariopartyrd/marioparty6) ⭐ 27 | 🐛 1 | 🌐 C | 📅 2026-10-14 - An in-progress decompilation of *Mario Party 6*
+* [Mario Party 6](https://github.com/mariopartyrd/marioparty6) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2026-10-14 - An in-progress decompilation of *Mario Party 6*
 * [Star Fox Adventures](https://github.com/renakunisaki/sfadebug) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2026-04-13 - An in-progress decompilation of *Star Fox Adventures*
 * [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) ⭐ 26 | 🐛 0 | 🌐 Assembly | 📅 2022-11-22 - An in-progress decompilation of *Harvest Moon: A Wonderful Life*
+* [The Incredibles](https://github.com/seilweiss/incredibles) ⭐ 26 | 🐛 0 | 🌐 C | 📅 2026-11-01 - An in-progress decompilation of *The Incredibles*
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) ⭐ 25 | 🐛 0 | 🌐 Assembly | 📅 2022-08-10 - An in-progress decompilation of *Naruto: Gekitō Ninja Taisen! 4*
-* [The Incredibles](https://github.com/seilweiss/incredibles) ⭐ 25 | 🐛 0 | 🌐 C | 📅 2026-10-30 - An in-progress decompilation of *The Incredibles*
 * [The SpongeBob SquarePants Movie](https://github.com/bfbbdecomp/tssm) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2026-10-26 - An in-progress decompilation of *The SpongeBob SquarePants Movie*
 * [Skies of Arcadia Legends](https://github.com/rainchus/skiesofarcadialegends) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-05-07 - An in-progress decompilation of *Skies of Arcadia Legends*
 * [Mario Superstar Baseball](https://github.com/roeming/mssb-dtk) ⭐ 16 | 🐛 1 | 🌐 C | 📅 2026-07-12 - An in-progress decompilation of *Mario Superstar Baseball*
 * [Doshin the Giant](https://github.com/break-core/doshin-gc) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-12-02 - An in-progress decompilation of *Doshin the Giant*
 * [Summoner: A Goddess Reborn](https://github.com/Charlese2/sgr) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2025-12-09 - An in-progress decompilation of *Summoner: A Goddess Reborn*
 * [Homeland](https://github.com/bttrdrgn/homeland) ⭐ 6 | 🐛 0 | 🌐 Assembly | 📅 2022-03-14 - An in-progress decompilation of *Homeland*
-* [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-08-12 - An in-progress decompilation of *Chibi-Robo!*
+* [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) ⭐ 3 | 🐛 0 | 🌐 C++ | 📅 2026-08-12 - An in-progress decompilation of *Chibi-Robo!*
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of *Metroid Prime*
 * [Metroid Prime 2: Echoes](https://github.com/PrimeDecomp/echoes) - An in-progress decompilation of *Metroid Prime 2: Echoes*
 * [Ratatouille](https://github.com/zounadecomp/ratdecomp) - An in-progress decompilation of *Ratatouille*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
