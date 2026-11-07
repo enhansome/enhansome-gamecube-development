@@ -16,7 +16,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-11-05T22:58:37Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "emukidid",
             "repo": "swiss-gc",
             "stars": 1672,
@@ -205,11 +205,11 @@
                     "id": 579413540,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-05T13:12:52Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-07T16:53:14Z",
+                    "open_issues": 5,
                     "owner": "ACreTeam",
                     "repo": "ac-decomp",
-                    "stars": 1435,
+                    "stars": 1436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -227,10 +227,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-30T22:12:10Z",
-                    "open_issues": 178,
+                    "open_issues": 179,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1157,
+                    "stars": 1158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -251,7 +251,7 @@
                     "open_issues": 4,
                     "owner": "mariopartyrd",
                     "repo": "marioparty4",
-                    "stars": 886,
+                    "stars": 888,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -298,7 +298,7 @@
                     "open_issues": 6,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 382,
+                    "stars": 384,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -345,7 +345,7 @@
                     "open_issues": 13,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -482,7 +482,7 @@
                     "language": "Assembly",
                     "license": null,
                     "last_commit": "2023-01-14T21:14:45Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "camthesaxman",
                     "repo": "smb-decomp",
                     "stars": 65,
@@ -527,7 +527,7 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "sadx",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -733,10 +733,31 @@
                     "id": 378224229,
                     "language": "C",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-04T07:57:58Z",
+                    "last_commit": "2026-11-07T12:38:59Z",
                     "open_issues": 0,
                     "owner": "seilc",
                     "repo": "incredibles",
+                    "stars": 26,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "The SpongeBob SquarePants Movie",
+                  "description": "An in-progress decompilation of The SpongeBob SquarePants Movie",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 964337983,
+                    "language": "C++",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-10-26T01:17:45Z",
+                    "open_issues": 1,
+                    "owner": "bfbbdecomp",
+                    "repo": "tssm",
                     "stars": 26,
                     "topics": []
                   },
@@ -758,27 +779,6 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "gnt4",
-                    "stars": 25,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "The SpongeBob SquarePants Movie",
-                  "description": "An in-progress decompilation of The SpongeBob SquarePants Movie",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 964337983,
-                    "language": "C++",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-10-26T01:17:45Z",
-                    "open_issues": 1,
-                    "owner": "bfbbdecomp",
-                    "repo": "tssm",
                     "stars": 25,
                     "topics": []
                   },
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T18:23:07.940Z",
+    "last_updated": "2026-11-07T16:58:46.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
