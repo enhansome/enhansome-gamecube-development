@@ -15,11 +15,11 @@
             "id": 37768198,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-15T02:19:12Z",
-            "open_issues": 130,
+            "last_commit": "2026-11-17T17:13:24Z",
+            "open_issues": 129,
             "owner": "emukidid",
             "repo": "swiss-gc",
-            "stars": 1675,
+            "stars": 1676,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:02.117Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "codewarrior",
               "decompilation",
@@ -164,7 +164,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-11-05T01:16:09Z",
-                    "open_issues": 26,
+                    "open_issues": 25,
                     "owner": "doldecomp",
                     "repo": "melee",
                     "stars": 2471,
@@ -188,7 +188,7 @@
                     "open_issues": 41,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2133,
+                    "stars": 2134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -230,7 +230,7 @@
                     "open_issues": 181,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1171,
+                    "stars": 1173,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -295,10 +295,10 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-16T19:20:22Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "doldecomp",
                     "repo": "sms",
-                    "stars": 389,
+                    "stars": 390,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -506,7 +506,7 @@
                     "open_issues": 1,
                     "owner": "ACreTeam",
                     "repo": "afe-decomp",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -681,6 +681,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "The Incredibles",
+                  "description": "An in-progress decompilation of The Incredibles",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Decompilation project for The Incredibles (GameCube)",
+                    "homepage": null,
+                    "id": 378224229,
+                    "language": "C++",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-11-17T07:44:49Z",
+                    "open_issues": 0,
+                    "owner": "seilc",
+                    "repo": "incredibles",
+                    "stars": 28,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T21:31:02.117Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Harvest Moon: A Wonderful Life",
                   "description": "An in-progress decompilation of Harvest Moon: A Wonderful Life",
                   "children": [],
@@ -716,27 +737,6 @@
                     "open_issues": 0,
                     "owner": "RenaKunisaki",
                     "repo": "sfadebug",
-                    "stars": 27,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T21:31:02.117Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "The Incredibles",
-                  "description": "An in-progress decompilation of The Incredibles",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Decompilation project for The Incredibles (GameCube)",
-                    "homepage": null,
-                    "id": 378224229,
-                    "language": "C++",
-                    "license": "CC0-1.0",
-                    "last_commit": "2026-11-16T20:16:47Z",
-                    "open_issues": 0,
-                    "owner": "seilc",
-                    "repo": "incredibles",
                     "stars": 27,
                     "topics": []
                   },
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:13:05.897Z",
+    "last_updated": "2026-11-17T19:59:24.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
