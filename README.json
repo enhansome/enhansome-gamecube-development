@@ -37,10 +37,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T20:15:52Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "encounter",
             "repo": "objdiff",
-            "stars": 622,
+            "stars": 625,
             "topics": [
               "asm",
               "assembly",
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "encounter",
             "repo": "decomp-toolkit",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "codewarrior",
               "decompilation",
@@ -167,7 +167,7 @@
                     "open_issues": 26,
                     "owner": "doldecomp",
                     "repo": "melee",
-                    "stars": 2474,
+                    "stars": 2475,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -188,7 +188,7 @@
                     "open_issues": 41,
                     "owner": "zeldaret",
                     "repo": "tp",
-                    "stars": 2139,
+                    "stars": 2140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -230,7 +230,7 @@
                     "open_issues": 183,
                     "owner": "zeldaret",
                     "repo": "tww",
-                    "stars": 1176,
+                    "stars": 1177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -345,7 +345,7 @@
                     "open_issues": 13,
                     "owner": "dbalatoni13",
                     "repo": "nfsmw",
-                    "stars": 260,
+                    "stars": 261,
                     "topics": [
                       "decompilation",
                       "decompiled-sources",
@@ -372,7 +372,7 @@
                     "language": "C++",
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-15T20:02:24Z",
-                    "open_issues": 14,
+                    "open_issues": 12,
                     "owner": "doldecomp",
                     "repo": "mkdd",
                     "stars": 222,
@@ -417,7 +417,7 @@
                     "open_issues": 0,
                     "owner": "doldecomp",
                     "repo": "ttyd",
-                    "stars": 154,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -695,7 +695,7 @@
                     "open_issues": 0,
                     "owner": "seilc",
                     "repo": "incredibles",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:02.117Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:14:46.483Z",
+    "last_updated": "2026-11-21T18:11:12.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more",
