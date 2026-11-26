@@ -40,10 +40,10 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 #### Game Decompilation
 
 * [Super Smash Bros. Melee](https://github.com/doldecomp/melee) ⭐ 2,476 | 🐛 27 | 🌐 C | 📅 2026-11-05 - An in-progress decompilation of *Super Smash Bros. Melee*
-* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,148 | 🐛 42 | 🌐 C++ | 📅 2026-06-23 - An in-progress decompilation of *The Legend of Zelda: Twilight Princess*
-* [Animal Crossing](https://github.com/acreteam/ac-decomp) ⭐ 1,446 | 🐛 5 | 🌐 C | 📅 2026-11-07 - An in-progress decompilation of *Animal Crossing*
-* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) ⭐ 1,184 | 🐛 184 | 🌐 C++ | 📅 2026-11-07 - An in-progress decompilation of *The Legend of Zelda: The Wind Waker*
-* [Mario Party 4](https://github.com/mariopartyrd/marioparty4) ⭐ 896 | 🐛 4 | 🌐 C | 📅 2026-10-15 - A **complete** decompilation of *Mario Party 4*
+* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) ⭐ 2,153 | 🐛 42 | 🌐 C++ | 📅 2026-06-23 - An in-progress decompilation of *The Legend of Zelda: Twilight Princess*
+* [Animal Crossing](https://github.com/acreteam/ac-decomp) ⭐ 1,449 | 🐛 5 | 🌐 C | 📅 2026-11-07 - An in-progress decompilation of *Animal Crossing*
+* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) ⭐ 1,185 | 🐛 184 | 🌐 C++ | 📅 2026-11-07 - An in-progress decompilation of *The Legend of Zelda: The Wind Waker*
+* [Mario Party 4](https://github.com/mariopartyrd/marioparty4) ⭐ 895 | 🐛 4 | 🌐 C | 📅 2026-10-15 - A **complete** decompilation of *Mario Party 4*
 * [Pikmin 2](https://github.com/projectPiki/pikmin2) ⭐ 395 | 🐛 4 | 🌐 C++ | 📅 2026-10-20 - An in-progress decompilation of *Pikmin 2*
 * [Super Mario Sunshine](https://github.com/doldecomp/sms) ⭐ 391 | 🐛 5 | 🌐 C++ | 📅 2026-11-25 - An in-progress decompilation of *Super Mario Sunshine*
 * [Pikmin](https://github.com/projectPiki/pikmin) ⭐ 336 | 🐛 3 | 🌐 C | 📅 2026-10-06 - An in-progress decompilation of *Pikmin*
@@ -80,4 +80,4 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
